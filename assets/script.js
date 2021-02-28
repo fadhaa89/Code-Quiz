@@ -214,8 +214,8 @@ function printQuestion(ques, ans, corAns){
     }
     aDiv.setAttribute('style', 'display:flex; flex-direction:column');
 }
-
-/**
+//========================================//
+/**the function is working .
  * Check Answer function:
  * get correct answer value from attribute and check if correct answer is clicked
  * if correct answer set text to Correct Answer 
