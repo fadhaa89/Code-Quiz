@@ -139,10 +139,7 @@ headerDiv.setAttribute('style', 'display: flex; justify-content: space-between; 
 fpageDiv.setAttribute('style', 'margin-top: 5em; display: flex; flex-direction: column; align-items: center; justify-content: center;');
 startBtnEl.setAttribute('style', 'width: 20%; height: 100px; background: #171f4f; color: #fff; font-size: 2em; border-radius: 10px;');
 
-/*  Start Timer Function:
-    Set Time to 60 seconds. If Time is over clear Interval and initiate endQuiz function with parameter string type: 'timeup'
-    For every wrong answer deduct 10 seconds from the timer 
-*/
+//timer is set for 60s //
 function startTimer(){
     timeLeft = 60;
     timeInterval = setInterval(function() {
