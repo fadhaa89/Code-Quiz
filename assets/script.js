@@ -7,10 +7,8 @@ var highscore = 0;
 var highScorearr = [];
 var finalScore = 0;
 var timeInterval = 0;
-
-/**
- * quizQuestions array 
- */
+//=====================================================//
+// creat an Array of quizQuestions and answers//
 var quizQuestions = [
 	{
 		question: "Is JavaScript a case-sensitive language?",
