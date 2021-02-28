@@ -323,7 +323,8 @@ var saveHighScoreHandler = function(event){
     }
 }
 
-// Back Button Handler: Go back to Home Page
+// Back Button Handler: Go back to Home Page 
+//when you click the btn
 var backButtonHandler = function(event){
     location.reload();
 }
