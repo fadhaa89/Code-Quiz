@@ -238,10 +238,7 @@ function check(event) {
 }
 
 
-/**
- * Start Quiz function:
- * initiate show question function if there are more question in the question bank
- */
+//start Quiz  with question then goes to the next question , if there is no next question the quiz will end //
 function startQuiz(){
     if(flag < quizQuestions.length ){
         showQuestion(quizQuestions[flag]);
