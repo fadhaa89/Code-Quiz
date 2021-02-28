@@ -346,3 +346,4 @@ btnGoback.addEventListener("click", backButtonHandler);
 
 // Clear Score button Click:
 btnClearScore.addEventListener("click", clearScoreHandler);
+// Quiz is end //
