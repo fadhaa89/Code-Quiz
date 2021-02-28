@@ -298,12 +298,7 @@ var startBtnHandler = function(event){
     startQuiz();
 }
 
-/**
- * Save high score handler
- * Get data from textbox and store it in localstorage
- * if textbox empty show alert to enter initials
- * Sort by high score ans show high score.
- */
+//created an object for the intial and hight score//
 var saveHighScoreHandler = function(event){
     var getInitials = document.getElementById('hscoreEl').value;
     if(getInitials == ""){
