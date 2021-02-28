@@ -247,12 +247,7 @@ function startQuiz(){
     }
 }
 
-/**
- * get High Score function:
- * clear all divs
- * get data from localstorage and show in html
- * if localstorage empty show text that no high score set yet.
- */
+//hight score function //
 function getHighScore(){
     mainDiv.textContent = '';
     fpageDiv.textContent='';
