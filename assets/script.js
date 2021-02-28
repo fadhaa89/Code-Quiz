@@ -60,7 +60,7 @@ var quizQuestions = [
 	}
 ];
 
-// the Start Button for  the Home Page:
+// the Start Button for  the Home page will start the Quiz//
 var startBtnEl = document.createElement("button");
 startBtnEl.innerText="Start Test";
 
