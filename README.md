@@ -1,6 +1,6 @@
 # Name 
 Code-Quiz
-# requirments 
+# requirements
 When you answer it correct add 10 point and when answer is wrong deduct 10s from timer.
 Show High score link in Home page.
 When clicked 'show high score', load localstorage values and show in highscore page. Data is sorted by high score.
@@ -19,13 +19,19 @@ Javascript Quiz program created.questions and answers When answer it correct add
 clone the repo
 # example 
 ![Example Gif](./assets/image/example.gif)
-
-# how to join it 
+ 
 
 # deployed
 
 
 # repo
+
+
+# author 
+name : Fadhaa Abdullah 
+Email: fadhaaabdullah8991@gmail.com   
+Github page : Fadhaa89
+
 
 
 
