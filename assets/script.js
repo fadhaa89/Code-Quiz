@@ -291,12 +291,7 @@ function getHighScore(){
 
     mainDiv.appendChild(btnDiv);
 }
-
-/**
- * Start button handler
- * remove homepage content
- * start timer and quiz function
- */
+//reset the quiz//
 var startBtnHandler = function(event){
     fpageDiv.remove();
     startTimer();
