@@ -21,10 +21,10 @@ clone the repo
 ![Example Gif](./assets/image/example.gif)
  
 # deployed
-[deployed]("https://fadhaa89.github.io/Code-Quiz/")
+https://fadhaa89.github.io/Code-Quiz/
 
 # repo
-[repo]("https://github.com/fadhaa89/Code-Quiz")
+https://github.com/fadhaa89/Code-Quiz
 
 # author 
 name : Fadhaa Abdullah <br>
